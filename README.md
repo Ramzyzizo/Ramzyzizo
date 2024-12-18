@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Ramzy Saad</h1>
 <h3 align="center">Backend Developer | Laravel Expert | API Specialist</h3>
 
 <!-- About Me -->
@@ -13,45 +13,40 @@
 ## Tech Stack
 ### Backend Development
 - 💻 PHP | Laravel
-- 🛠 RESTful APIs | GraphQL
-- 🗄️ MySQL | PostgreSQL | Redis
-- 🔧 PHPUnit | Feature Testing
+- 🛠 RESTful APIs
+- 🗄️ MySQL | SSMS
 - 📦 Composer | Artisan
 
 ### Development Tools & Practices
-- 📊 Git | GitHub Actions
+- 📊 Git
 - 🐳 Docker | Docker Compose
-- 🔄 CI/CD
-- 📝 Swagger/OpenAPI
-- ⚡ Redis Cache
 - 🔐 JWT | OAuth2
-
-<!-- Code Quality -->
-## Code Quality Principles
-- ✨ SOLID Design Principles
-- 🏗️ Clean Architecture
-- 📐 Design Patterns
-- 🧪 Test-Driven Development (TDD)
-- 🔍 Code Review
-- 📚 Documentation
 
 <!-- Projects -->
 ## Featured Projects
-### Project 1: [Project Name]
-- Description of the project
-- Key features implemented
-- Technologies used
-- [Link to repository]
+### Project 1: [Qaswaa]
+- Dynamic Profile
+- https://qaswaa.net/en
 
-### Project 2: [Project Name]
-- Description of the project
-- Key features implemented
-- Technologies used
-- [Link to repository]
+### Project 2: [penguin]
+- E-Commerce
+- https://penguin-hvac.net/ar
+- 
+### Project 3: [eissastores]
+- E-Commerce
+- https://eissastores.com/en
+
+### Project 4: [posla]
+- E-Learning
+- https://posla-eg.com/en
+
+### Project 5: [betraining]
+- LMS
+- http://betraining.com.sa/
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramzyzizo&show_icons=true&theme=radical)
 
 <!-- Connect -->
 ## Let's Connect
@@ -61,4 +56,4 @@
 
 <!-- Footer -->
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [Ramzyzizo](https://github.com/Ramzyzizo)
